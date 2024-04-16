@@ -2,6 +2,8 @@
 
 Test för att få igång webviews i Android.
 
+Byggt utifrån ett tomt template-projekt (Empty Activity template) med Android Studio Iguana | 2023.2.1
+
 ## How to
 
 - Uppdatera URL:en i [följande fil](https://github.com/vibosr/android-webview-test/blob/main/app/src/main/java/com/example/myapplication/MainActivity.kt#L13) och dra igång appen. 
